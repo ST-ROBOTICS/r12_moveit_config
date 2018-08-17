@@ -1,0 +1,12 @@
+controller_list:
+ - name: r12_arm_controller
+   action_ns: follow_joint_trajectory
+   type: FollowJointTrajectory
+   default: true
+   joints:
+     - waist_joint
+     - shoulder_joint
+     - elbow_joint
+     - hand_joint
+     - wrist_joint
+
