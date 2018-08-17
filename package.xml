@@ -6,9 +6,9 @@
      An automatically generated package with all the configuration and launch files for using the r12 with the MoveIt! Motion Planning Framework
   </description>
   <author email="HogstrandAndreas@gmail.com">Andreas Hogstrand</author>
-  <maintainer email="HogstrandAndreas@gmail.com">Andreas Hogstrand</maintainer>
+  <maintainer email="ukoffice@strobotics.com">ST Robotics UK office</maintainer>
 
-  <license>BSD</license>
+  <license>MIT</license>
 
   <url type="website">http://moveit.ros.org/</url>
   <url type="bugtracker">https://github.com/ros-planning/moveit/issues</url>
